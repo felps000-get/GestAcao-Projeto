@@ -70,3 +70,12 @@ Tipografia oficial
 
 O GestAção é uma proposta de plataforma web desenvolvida com foco na saúde e no bem-estar de mulheres grávidas, especialmente aquelas que estão passando pela primeira gestação. A ideia surgiu da percepção de que esse período envolve muitas dúvidas, mudanças e responsabilidades, tornando importante o acesso a informações confiáveis e a organização do acompanhamento pré-natal. A plataforma reúne cinco áreas principais: acompanhamento da gravidez por semana, organização de consultas e exames, apresentação de dados sobre a saúde materna no Brasil, registro de memórias da gestação e uma ferramenta interativa para montar o quarto do bebê. Relacionado ao ODS 3, o projeto busca contribuir de maneira complementar para a conscientização sobre a saúde materna e infantil, incentivando o acesso à informação e o acompanhamento adequado da gravidez. Seu diferencial está em reunir informação, organização e experiências pessoais em um único ambiente digital.
 
+- INTEGRANTES DO GRUPO:
+
+- Claudio Alves Santurian
+- Felipe Celidonio Tinoco
+- Yago Paolone dos Santos
+- João Henrique Luzio Raphael
+- Yohan Queiroz de Oliveira
+- Raul Donato de Castro Pepe
+
