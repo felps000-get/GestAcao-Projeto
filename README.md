@@ -34,35 +34,35 @@ As tecnologias foram escolhidas considerando a proposta de desenvolvimento. HTML
 <img width="450" height="475" alt="image" src="https://github.com/user-attachments/assets/3d8aa4b0-0bde-4b95-84aa-31203151ab48" />
 O logotipo apresenta a ilustração de uma mulher grávida envolvendo o bebê com um coração, simbolizando proteção, amor e cuidado. O nome GestAção utiliza uma combinação de azul e rosa, reforçando a identidade visual da plataforma.
 
-Paleta de cores oficial
+- Paleta de cores oficial
 
 A paleta utiliza tons pastéis de azul, rosa, lilás e verde-água, combinados com cores neutras para manter uma aparência suave e acolhedora.
 
-Azul pastel
+- Azul pastel
 #A9C9EF
 
-Rosa pastel
+- Rosa pastel
 #F2B4CA
 
-Lilás
+- Lilás
 #D7C3EF
 
-Verde-água
+- Verde-água
 #B9DED8
 
-Creme
+- Creme
 #FFF8F5
 
-Azul acinzentado
+- Azul acinzentado
 #405775
 
-Rosa médio
+- Rosa médio 
 #D77E9C
 
-Cinza lavanda
+- Cinza lavanda 
 #E9E5EE
 
 Tipografia oficial
-Playfair Display: utilizada em títulos e chamadas principais, trazendo elegância e personalidade à identidade visual.
-Nunito Sans: utilizada em textos, menus, botões e informações, proporcionando boa legibilidade e uma aparência amigável.
+- Playfair Display: utilizada em títulos e chamadas principais, trazendo elegância e personalidade à identidade visual.
+- Nunito Sans: utilizada em textos, menus, botões e informações, proporcionando boa legibilidade e uma aparência amigável.
 
