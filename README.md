@@ -30,4 +30,6 @@ No GestAção serão utilizadas as seguintes tecnologias:
 
 As tecnologias foram escolhidas considerando a proposta de desenvolvimento. HTML5, CSS3 e JavaScript serão responsáveis pela estrutura, aparência e interatividade da plataforma. As funcionalidades serão demonstradas por meio de informações previamente definidas e interações simuladas, permitindo apresentar o funcionamento das cinco abas, incluindo o calendário, o diário, a retrospectiva e o jogo interativo.
 
-3.
+3. Identidade visual inicial
+<img width="450" height="475" alt="image" src="https://github.com/user-attachments/assets/3d8aa4b0-0bde-4b95-84aa-31203151ab48" />
+
